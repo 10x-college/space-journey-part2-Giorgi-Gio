@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/om7GNoCM)
 როგორც გახსოვთ წინა დავალებაში იუპიტერთან ახლოს ხომალდი დაგიზიანდათ,
 თქვენი გაგზავნილი SOS წერილი ნასაზე ადრე უცხოპლანეტელებმა ნახეს და თქვენი
 დახმარება გადაწყვიტეს, ასე მოხვდით ინტერპლანეტარულ აეროპორტში
@@ -113,7 +114,10 @@ class="status-delay" (for Delayed)
 
 class="status-stop" (for Cancelled)
 
+
 The Footer: Use `<tfoot>` with a single row. Use `<td colspan="5">` to make the text span across the whole table width. Text: SCANNING FOR INCOMING VESSELS...
+
+
 
 Step 6: The Booking Interface
 Create the third section for the form.
