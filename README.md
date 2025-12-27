@@ -114,7 +114,10 @@ class="status-delay" (for Delayed)
 
 class="status-stop" (for Cancelled)
 
+
 The Footer: Use `<tfoot>` with a single row. Use `<td colspan="5">` to make the text span across the whole table width. Text: SCANNING FOR INCOMING VESSELS...
+
+
 
 Step 6: The Booking Interface
 Create the third section for the form.
